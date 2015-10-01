@@ -3,7 +3,7 @@ Authors:
 
 John Bucknam,
 Albert Rynkiewicz, 
-Alexander Greco, 
+Alex Greco, 
 Aaron Rudolph
 
 This project is meant to create a Binary Buddy, Memory Allocation System viewer with Java.
